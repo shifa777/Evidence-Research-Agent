@@ -653,7 +653,25 @@ Citation
 This improves transparency and makes the system easier to evaluate.
 
 ---
--
+🚀 Future Improvements
+
+With more development time, the system could be extended with:
+
+PDF/DOCX/TXT upload through the UI
+OCR for scanned documents
+persistent vector database
+hybrid keyword + semantic retrieval
+reranking models
+sentence-level citations
+web search as an optional research tool
+citation validation
+document-level source filtering
+conversation history
+evaluation benchmarks for retrieval accuracy
+automated hallucination/grounding evaluation
+
+These are intentionally outside the minimum challenge scope so that the core end-to-end agent remains simple and reproducible.
+---
 
 # 🔐 Security & Configuration
 
