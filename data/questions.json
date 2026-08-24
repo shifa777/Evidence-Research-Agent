@@ -1,0 +1,9 @@
+[
+  {"id": 1, "question": "What are the major risks and challenges of generative AI in education?", "expected_behavior": "Answer with evidence from the UNESCO guidance."},
+  {"id": 2, "question": "What principles should guide responsible use of AI in education?", "expected_behavior": "Synthesize principles and cite the relevant UNESCO/US Department of Education sources."},
+  {"id": 3, "question": "What AI competencies should students develop?", "expected_behavior": "Use the UNESCO student competency framework."},
+  {"id": 4, "question": "What does the U.S. Department of Education recommend about AI and teaching and learning?", "expected_behavior": "Summarize recommendations from the U.S. Department of Education report."},
+  {"id": 5, "question": "What trustworthy AI characteristics are emphasized by the NIST AI Risk Management Framework?", "expected_behavior": "Use the NIST AI RMF source."},
+  {"id": 6, "question": "How should AI systems be evaluated before use in education?", "expected_behavior": "Synthesize evidence across the provided education-focused sources."},
+  {"id": 7, "question": "What does the research say about quantum computing in banking?", "expected_behavior": "Return insufficient evidence because the provided corpus does not cover this topic."}
+]
